@@ -1,0 +1,7 @@
+# Constants
+SUPPORTED_PLATFORMS = ["YouTube", "Facebook", "Instagram"]
+REEL_DURATION_MIN = 45
+REEL_DURATION_MAX = 55
+OUTPUT_QUALITY = "1080p"
+LANGUAGE = "Urdu"
+TARGET_AUDIENCE = "Hindi speakers"
