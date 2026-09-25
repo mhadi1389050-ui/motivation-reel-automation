@@ -1,0 +1,7 @@
+{
+  "youtube_api_key": "PASTE_YOUR_YOUTUBE_API_KEY_HERE",
+  "groq_api_key": "PASTE_YOUR_GROQ_API_KEY_HERE",
+  "facebook_token": "PASTE_YOUR_FACEBOOK_TOKEN_HERE",
+  "reddit_client_id": "PASTE_YOUR_REDDIT_CLIENT_ID_HERE",
+  "reddit_client_secret": "PASTE_YOUR_REDDIT_CLIENT_SECRET_HERE"
+}
