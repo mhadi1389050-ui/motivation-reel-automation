@@ -1,0 +1,10 @@
+{
+  "timezone": "Asia/Karachi",
+  "language": "Urdu",
+  "target_audience": "Hindi speakers",
+  "niche": "motivation",
+  "video_duration_min": 45,
+  "video_duration_max": 55,
+  "research_days": 7,
+  "upload_schedule": "automatic"
+}
